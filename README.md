@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
 
 ## Angular installation -
-1. Install Nodejs
+1. Download Nodejs
 2. Install Angular - npm install -g @angular/cli
 
 ## create project -> command on cmd -
